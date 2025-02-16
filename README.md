@@ -1,6 +1,5 @@
 # 👋 Olá, eu sou o Daniel!
-
-Tenho 18 anos e recentemente concluí o curso técnico em Análise e Desenvolvimento de Sistemas. Meu próximo passo é ingressar na faculdade para aprofundar meus conhecimentos e expandir minhas habilidades na área de tecnologia.
+Tenho 18 anos e recentemente concluí o curso técnico em Análise e Desenvolvimento de Sistemas. Atualmente, curso Análise e Desenvolvimento de Sistemas na Fatec.
 
 <div align="center">
   <img src="https://giffiles.alphacoders.com/219/219647.gif" alt="Meu GIF">
@@ -13,7 +12,7 @@ Tenho 18 anos e recentemente concluí o curso técnico em Análise e Desenvolvim
 
 ## 🚀 Minhas Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,bootstrap,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,html,css,php,bootstrap,sqlite,)](https://skillicons.dev)
 
 ---
 
