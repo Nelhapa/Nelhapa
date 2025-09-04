@@ -35,11 +35,5 @@ Tenho 18 anos e atualmente curso Análise e Desenvolvimento de Sistemas na Fatec
 
 ---
 
-## 🌱 Atualmente Estou Estudando
-- Buscando aprender **Typescript** e **React**.
-- Melhorando minhas habilidades com **JavaScript**.
-- Explorando **Node.js** para desenvolvimento backend.
----
-
 
 
