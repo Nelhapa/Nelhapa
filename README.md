@@ -1,9 +1,7 @@
 # 👋 Olá, eu sou o Daniel!
 Tenho 18 anos e atualmente curso Análise e Desenvolvimento de Sistemas na Fatec. Já concluí o curso técnico na área e, como estudante, busco sempre aperfeiçoar minhas habilidades em programação. Tenho conhecimento em JavaScript, Python, C#, PHP, HTML e CSS.
 
-<div align="center">
-  <img src="https://giffiles.alphacoders.com/219/219647.gif" alt="Meu GIF">
-</div>
+
 
 
 ---
