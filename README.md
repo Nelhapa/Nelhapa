@@ -12,15 +12,7 @@ Tenho 18 anos e atualmente curso Análise e Desenvolvimento de Sistemas na Fatec
 
 [![My Skills](https://skillicons.dev/icons?i=js,py,html,css,php,bootstrap,sqlite,)](https://skillicons.dev)
 
----
 
-## 📊 Estatísticas do GitHub
-
-![Nelhapa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nelhapa&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nelhapa&layout=compact&theme=radical)](https://github.com/Nelhapa?tab=repositories)
-
----
 
 ## 🐍 Contribuições
 
